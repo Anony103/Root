@@ -16,7 +16,7 @@ import {
 const OurService = () => {
   return (
     <Container>
-         <TitleWrapper style={{marginTop:"10px"}}>
+         <TitleWrapper style={{marginTop:"60px",marginBottom:'30px'}}>
         <Title >OUR SERVICE</Title>
       </TitleWrapper>
       <Pack>

@@ -59,7 +59,7 @@ const UpComingEvent = () => {
 
   return (
     <Container>
-      <TitleWrapper>
+      <TitleWrapper >
         <Title>UPCOMING EVENT</Title>
       </TitleWrapper>
     <Wrapper>

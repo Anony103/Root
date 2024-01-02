@@ -33,7 +33,7 @@ const PrevEvent = () => {
 
   return (
     <Container >
-      <TitleWrapper style={{marginTop:"10px"}}>
+      <TitleWrapper style={{marginTop:"60px",marginBottom:'30px'}}>
         <Title >CHECK OUT OUR PAST EVENT</Title>
       </TitleWrapper>
       {pastEvent.length < 1 && (

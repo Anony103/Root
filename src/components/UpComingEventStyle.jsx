@@ -9,7 +9,7 @@ export const TitleWrapper = styled.div`
   align-content: center;
   justify-content: center;
   padding: 0 20px;
-  margin-top: 32px;
+  margin-top: 60px;
   font-weight: 800;
   font-size: 24px;
   line-height: 32px;
