@@ -38,7 +38,7 @@ const PrevEvent = () => {
       </TitleWrapper>
       {pastEvent.length < 1 && (
               <Empty>
-                <EmptyTitle>This page is currently under construction.</EmptyTitle>
+                {/* <EmptyTitle>This page is currently under construction.</EmptyTitle> */}
               </Empty>
           )}
       <Wrapper>
